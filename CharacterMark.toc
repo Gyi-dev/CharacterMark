@@ -1,0 +1,9 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: Character Mark
+## Notes: Displays a customizable crosshair in the center of the screen.
+## IconTexture: Interface\AddOns\CharacterMark\Media\CharacterMark.tga
+## Author: Gyi-Blackhand
+## Version: 1.1
+## SavedVariables: CharacterMarkDB
+
+CharacterMark.lua
